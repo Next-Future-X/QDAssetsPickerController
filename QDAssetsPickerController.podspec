@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint QDAssetsPickerController.spec.podspec' to ensure this is a
+#  Be sure to run `pod spec lint QDAssetsPickerController.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://docs.cocoapods.org/specification.html
@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "QDAssetsPickerController.spec"
+  spec.name         = "QDAssetsPickerController"
   spec.version      = "0.0.1"
   spec.summary      = "QDAssetsPickerController"
 
