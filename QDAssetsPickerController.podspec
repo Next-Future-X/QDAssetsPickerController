@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/yuanxiangyang0528/QDAssetsPickerController'
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author       = { 'yuanxiangyang' => 'yuanxiangyang@qding.me' }
-  spec.source       = { :git => 'https://github.com/yuanxiangyang0528/QDAssetsPickerController.git', :tag => '#{spec.version}' }
+  spec.source       = { :git => 'https://github.com/yuanxiangyang0528/QDAssetsPickerController.git', :tag => spec.version.to_s }
   spec.requires_arc = true
   spec.source_files = 'Classes', 'Classes/**/*.{h,m}'
   spec.ios.deployment_target = '8.0'
