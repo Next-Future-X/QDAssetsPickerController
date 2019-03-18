@@ -1,2 +1,2 @@
 # QDAssetsPickerController
-CTAsstesPickerController
+QDAssetsPickerController
